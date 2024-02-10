@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: app_2
+  name: appv2
 spec:
   containers:
     - name: ctrl
