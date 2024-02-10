@@ -10,7 +10,7 @@ spec:
       stdin: true
       tty: true
       volumeMounts:
-        - mountPath: /etc/name
+        - mountPath: /etc/conf
           name: vomap
   volumes:
     - name: vomap
